@@ -1,0 +1,42 @@
+body {
+  background: #f5d9d5;
+
+  font-family: "Nunito", sans-serif;
+}
+
+#navvv .navbar-brand {
+  color: #142f4e;
+  font-size: 1.5rem;
+}
+#navvv {
+  font-size: 1.5rem;
+}
+
+.text-center {
+  color: #142f4e;
+}
+
+#navvv .nav-link {
+  color: #142f4e;
+}
+
+.navbar.scrolled {
+  background: rgb(159, 66, 159);
+  transition: background 500ms;
+}
+
+#navvv .nav-link:hover {
+  color: white;
+}
+
+span {
+  color: #142f4e;
+}
+
+.aaa {
+  color: rgba(255, 0, 0, 0.4);
+}
+
+h2 {
+  color: #ea1c2c;
+}
